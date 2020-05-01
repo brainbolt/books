@@ -1,6 +1,6 @@
-Nonviloent Communication: A Language of Life: Life-changing Tools for Healthy Relationships
-Marshall Rosenberg
-ISBN 9781892005281
+Nonviloent Communication: A Language of Life  
+Marshall Rosenberg  
+ISBN 9781892005281  
 
 # Overview
 
