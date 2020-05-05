@@ -1,8 +1,8 @@
-Rich Dad Poor Dad  
+# Rich Dad Poor Dad  
 Robert T. Kiyosaki  
 ISBN 9781612680194  
 
-# Chapter 1
+## Chapter 1
 
 1. Poor and middle class people work for money; wealthy people have money work for them.
 2. Life teaches you lessons by pushing you around. Most people give up, but some people learn from it and look forward to more lessons.
