@@ -21,7 +21,7 @@ ISBN 9781612680194
 
 ## Chapter 3: Mind your own business
 
-1. McDonald's founder Ray Kroc considered himself to be in the Real Estate business, not the food business. McDonald's own a massive amount of valuable Real Estate.
+1. McDonald's founder Ray Kroc considered himself to be in the Real Estate business, not the food business. McDonald's owns a massive amount of valuable Real Estate.
 2. Avoid working your entire life for someone else
 3. Many people confuse their profession for their business.
 4. Your business revolves around your assets
