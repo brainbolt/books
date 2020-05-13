@@ -50,7 +50,7 @@ ISBN 9781612680194
     2. Investing (making money from money)
     3. Understanding markets (supply and demand, market conditions)
     4. The Law (tax advantages and protections)
-7. Corporations pay expenses __before__ taxes. Individuals pay expenses __after__ taxes.
+7. Corporations pay expenses _before_ taxes. Individuals pay expenses _after_ taxes.
 8. Corporations can be used as a means of legal protection.
 9. Wealthy people own very little, but control a lot through corporate structuring.
 10. Robert recommends those with legitimate assets to learn more about corporate structures as a way to take advantage of their potential benefits. He suggests Garret Sutton's books.
