@@ -54,3 +54,17 @@ ISBN 9781612680194
 8. Corporations can be used as a means of legal protection.
 9. Wealthy people own very little, but control a lot through corporate structuring.
 10. Robert recommends those with legitimate assets to learn more about corporate structures as a way to take advantage of their potential benefits. He suggests Garret Sutton's books.
+
+## Chapter 5: The Rich Invent Money
+
+1. Financial genius requires technical knowledge _and_ courage. "Often in the real world it's not the smart who get ahead, but the bold
+2. Robert believes that many people miss out simply because they have debilitating self-doubt and are afraid of taking risks.
+3. Financial intelligence provides more options. Luck is created. 
+4. Hanging on to old ideas can be dangerous. Be nimble and ready to adapt to change.
+4. Large amounts of money can be turned into large amounts with smart, timely investments
+5. Markets go up and down, investements come and go. There are always opportunities to be discovered.
+6. There are two kinds of investors - those who prefer "packaged" investments offered by others, and those who prefer to create their own, also known as professional investors. Being the latter requires three main skills:
+    1. Identifying oportunities that others have missed
+    2. Raising money
+    3. Surrounding yourself with smart people who can help you
+7. There is always risk - it's just a matter of learning to manage it rather than avoiding it
