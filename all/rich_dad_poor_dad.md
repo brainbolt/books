@@ -68,3 +68,18 @@ ISBN 9781612680194
     2. Raising money
     3. Surrounding yourself with smart people who can help you
 7. There is always risk - it's just a matter of learning to manage it rather than avoiding it
+
+## Chapter 6: Work to Learn, Don't Work for Money
+
+1. Many people are "one skill away from greatness" because too often they specialize in one thing and would greatly benefit from just one additional skill.
+2. Robert's rich dad encouraged Robert to learn a little about a lot o things because the more specialized you are, the more trapped and depenedent on that specialty you are.
+3. Seek jobs that will give you the skills that you need. Robert joined Xerox's sales program _because_ he was shy and wanted to learn to overcome his shyness and because Xerox's sales training program was one of the best in the world.
+4. Knowledge of business systems is very important. Many people make a better hamburger than McDonald's, but McDonald's is successful because they are excellent at business systems.
+5. The main management skills needed for success are:
+    1. Cash flow
+    2. Business systems
+    3. People
+    4. Sales/marketing
+    5. Communication (writing, speaking, and negotiating)
+6. Sales and marketing are difficult for most people primarily due to fear of rejection.
+7. The situation you fear most is the skill that you need to learn and conquer.
