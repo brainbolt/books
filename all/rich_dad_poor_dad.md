@@ -83,3 +83,41 @@ ISBN 9781612680194
     5. Communication (writing, speaking, and negotiating)
 6. Sales and marketing are difficult for most people primarily due to fear of rejection.
 7. The situation you fear most is the skill that you need to learn and conquer.
+
+## Chapter 7: Overcoming Obstacles
+
+1. "The primary difference between a rich person and a poor person is how they manage fear."
+2. There are five primary obstacles which prevent literate people from being successful:
+    1. Fear
+    2. Cynicism
+    3. Laziness
+    4. Bad habits
+    5. Arrogance
+### Overcoming Fear:
+  - Everyone experiences fear.
+  - Robert's rich dad admired the Texan attitude of "Win big, lose bind - it's your attitude towards the loss that matters"
+  - Winning and losing are connected. There are no winners who haven't lost.
+  - "For winners, losing inspires them. For losers, losing defeats them."
+  - Most people play to not lose instead of playing to win.
+  - "Building assets don't require difficult math, but it does require courage and the right attitude towards failure."
+
+### Overcoming Cynicism:
+  - Many people allow their own doubts or the doubts of others to talk them out of acting
+  - Some of the best times to make money are when others are too afraid to act.
+  - Doubts and cynicism keep most people poor. 
+  - "Cynics criticize and winners analyze"
+
+### Overcoming Laziness:
+  - Staying busy is one of the most common forms of laziness.
+  - "Greed" is often considered a bad thing, but it has roots in "desire", and desire is often a motivator for good
+  - One way to address laziness is by embracing desire and asking "what's in it for me?"
+  - Robert asked himself "How can I afford to never work again?" and he started coming up with ideas, but the hardest part was dealing with the doubt and stories about guilt about being "greedy."
+
+### Overcoming Bad Habits:
+  - Overcome bad habits by putting new habits in place
+  - Robert's rich dad insisted on paying himself first, even if he didn't have enough to cover his debts because he knew that it would motivate him to figure it out. If he had paid his debts first and nothing left with which to pay himself, he wouldn't have been as motivated.
+
+### Overcoming Arrogance:
+  - Everytime Robert's rich dad had been arrogant he had lost money because he thought that what he didn't know wasn't important.
+  - Many people compensate for ignorance with arrogance.
+  - Ignorance isn't bad if you respond to it by educating yourself.
