@@ -94,30 +94,98 @@ ISBN 9781612680194
     4. Bad habits
     5. Arrogance
 ### Overcoming Fear:
-  - Everyone experiences fear.
-  - Robert's rich dad admired the Texan attitude of "Win big, lose bind - it's your attitude towards the loss that matters"
-  - Winning and losing are connected. There are no winners who haven't lost.
-  - "For winners, losing inspires them. For losers, losing defeats them."
-  - Most people play to not lose instead of playing to win.
-  - "Building assets don't require difficult math, but it does require courage and the right attitude towards failure."
+- Everyone experiences fear.
+- Robert's rich dad admired the Texan attitude of "Win big, lose bind - it's your attitude towards the loss that matters"
+- Winning and losing are connected. There are no winners who haven't lost.
+- "For winners, losing inspires them. For losers, losing defeats them."
+- Most people play to not lose instead of playing to win.
+- "Building assets don't require difficult math, but it does require courage and the right attitude towards failure."
 
 ### Overcoming Cynicism:
-  - Many people allow their own doubts or the doubts of others to talk them out of acting
-  - Some of the best times to make money are when others are too afraid to act.
-  - Doubts and cynicism keep most people poor. 
-  - "Cynics criticize and winners analyze"
+- Many people allow their own doubts or the doubts of others to talk them out of acting
+- Some of the best times to make money are when others are too afraid to act.
+- Doubts and cynicism keep most people poor. 
+- "Cynics criticize and winners analyze"
 
 ### Overcoming Laziness:
-  - Staying busy is one of the most common forms of laziness.
-  - "Greed" is often considered a bad thing, but it has roots in "desire", and desire is often a motivator for good
-  - One way to address laziness is by embracing desire and asking "what's in it for me?"
-  - Robert asked himself "How can I afford to never work again?" and he started coming up with ideas, but the hardest part was dealing with the doubt and stories about guilt about being "greedy."
+- Staying busy is one of the most common forms of laziness.
+- "Greed" is often considered a bad thing, but it has roots in "desire", and desire is often a motivator for good
+- One way to address laziness is by embracing desire and asking "what's in it for me?"
+- Robert asked himself "How can I afford to never work again?" and he started coming up with ideas, but the hardest part was dealing with the doubt and stories about guilt about being "greedy."
 
 ### Overcoming Bad Habits:
-  - Overcome bad habits by putting new habits in place
-  - Robert's rich dad insisted on paying himself first, even if he didn't have enough to cover his debts because he knew that it would motivate him to figure it out. If he had paid his debts first and nothing left with which to pay himself, he wouldn't have been as motivated.
+- Overcome bad habits by putting new habits in place
+- Robert's rich dad insisted on paying himself first, even if he didn't have enough to cover his debts because he knew that it would motivate him to figure it out. If he had paid his debts first and nothing left with which to pay himself, he wouldn't have been as motivated.
 
 ### Overcoming Arrogance:
-  - Everytime Robert's rich dad had been arrogant he had lost money because he thought that what he didn't know wasn't important.
-  - Many people compensate for ignorance with arrogance.
-  - Ignorance isn't bad if you respond to it by educating yourself.
+- Everytime Robert's rich dad had been arrogant he had lost money because he thought that what he didn't know wasn't important.
+- Many people compensate for ignorance with arrogance.
+- Ignorance isn't bad if you respond to it by educating yourself.
+
+## Chapter 8: Getting Started
+
+1. Finding great opportunities is easy once you have learned to do so, but learning to do so takes some effort and a lot of people never take the time to do it.
+
+### The 10 steps to awakening your financial genius:
+
+#### 1) Find a reason greater than reality: the power of spirit
+- Find the drive or purpose that will drive you to succeed.
+- Identifying what you _don't_ want ("I don't want to trade my time for money") can help you identify what you _do_ want ("I want to set my own schedule").
+- Your purpose has to be strong enough to sustain you through setbacks.
+- If you don't have a strong enough reason, Robert urges you to stop reading any further because the rest of the process will seem like too much work.
+
+#### 2) Make daily choices: the power of choice
+- You have the power to choose everyday to be rich or poor or middle class. Your spending habits reflect who you are. **The poor have poor spending habits.**
+- Most people choose to be not rich because they convince themselves that they don't care about money or that they will worruy about it later.
+- Invest in education and learn ideas with which you disagree because it just gives you another perspective.
+- Take a long view of wealth that celebrates learning.
+- Invest in your mind before assets.
+
+#### 3) Choose friends carefully: the power of association
+- Learn from all of your friends - those who are successful and those who are not.
+- Many wealthy people report that more people ask them for money than ask them how they made money.
+- Avoid listening to poor and frightened people because to them the sky is falling.
+- Avoid going with the crowd because by the time the crowd shows up it's already too late.
+- Don't try to time the market. Instead, position yourself for the next wave.
+- Get "insider trading" information legally by being close to wealthy people who know where and how the money is being made.
+
+#### 4) Master a formula and the learn a new one: the power of learning quickly
+- Find a way to make money (take a class, read a book, etc.), put it into practice, and then learn new formulas.
+- Robert made millions using a formula he learned in a workshop called "How to Buy Real Esate Foreclosures", so he went in search of new formulas.
+- It's not just about faster formulas, but it's about learning formulas faster. **Learn to learn quickly.**
+
+#### 5) Pay yourself first: the power of self discipline
+- Self-discipline is the single largest delineating factor between the poor, middle class, and wealthy.
+- The world pushes people around and applies pressure. If you can't tolerate financial pressure, you'll never be rich.
+- The three most important business management skills are:
+    1. Cash flow
+    2. People
+    3. Personal time
+- Many people are familiar with the statement "Pay yourself first", but few live by it
+- Paying yourself first even when times are tough takes internal fortitude and motivates you to get creative.
+- To successfully pay yourself first:
+    1. Avoid large debt positions that you have to pay for. Keep your expenses low and build assets first.
+    2. Allow the pressure of coming up short to  inspire your creativity
+- This doesn't mean pay yourself first and starve - life is meant to be enjoyed. If you call on your financial genius, you can have all the goodies, get rich, and pay the bills.
+
+#### 6) Pay your brokers well: the power of good advice
+- Quality professionals save you time and money and are well worth substantial pay.
+- If they are good, the information that they provide you with will only help you make more money.
+- Not all brokers are created equal. Find out hwo much property or investments they own.
+- Companies have a board of directors because they know the value of having input from smart people.
+
+#### 7) Be an Indian giver: the power of getting something for nothing
+- Get your investment back quickly.
+- For each investment, there must be an upside - something for free, like a mini-storage, a piece of land, stock shares, a house. And there must be limited risk.
+
+#### 8) Use assets to buy luxuries: the power of focus
+- Don't borrow money to pay for luxuries.
+
+#### 9) Choose heroesL the power of myth
+- Following, imitating, and emulating those who we admire is a powerful form of learning.
+
+#### 10) Teach and you shall receive: the power of giving
+- If you want something, you first have to give.
+- Whenever you feel in need of something (money, a smile, love, friendship), give it first and it will come back in buckets.
+- Be generous with what you have and be sure that you are giving for the joy that itself brings, not just to get something in return.
+
