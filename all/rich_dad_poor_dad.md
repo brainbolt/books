@@ -189,3 +189,45 @@ ISBN 9781612680194
 - Whenever you feel in need of something (money, a smile, love, friendship), give it first and it will come back in buckets.
 - Be generous with what you have and be sure that you are giving for the joy that itself brings, not just to get something in return.
 
+### Chapter 9: Still Want More? Here Are Some To Dos
+#### 1) Stop doing what you are doing
+- Take a break and assess what's working and what's not.
+#### 2) Look for new investment ideas
+- Robert searches bookstores for new investment ideas on subjects that he knows nothing about.
+- He found _The 16 Percent Solution_ by Joel Moskowiz this way
+#### 3) Find someone who has done what you want to do
+- Take them to lunch and ask them for tips and tricks of the trade.
+#### 4) Take classes, read, and attend seminars
+- Roberts searches the internet for new and interesting classes, many of which are free or inexpensive.
+- The classes he has taken are why he is wealthy.
+#### 5) Make lots os offers
+- Make lots of offer when you are looking for real estate.
+- Ropbert often makes on offer of half of the asking price because he knows what it's like to try to sell something - a low offer is better than no offer because the seller can always counter.
+- Robert sees buying and selling as a fun game, so he doesn't take it too seriously.
+- Always make offers with escape clauses. Robert likes to include a contingency which requirs approval from his business partner. His business partner is his cat.
+- Many people makes things too difficult and take things too seriously.
+#### 6) Jog, walk, or drive certain areas once a month for 10 minutes
+- Look for change in areas you are familiar with. 
+- Talk to postal carriers, moving companies, retailers (especially new ones), or other people working in the area who might have info about what is going on.
+#### 7) Shop for bargians in all markets
+- Many people buy commodities when they are on sale at the grocery store, but get scared when houses go on sale due to a declining market.
+- **Profits are made in the buying, not in the selling**
+#### 8) Look in the right places
+- Robert paid 50% of what his neighbor paid for a indentical condo because he knew how to purchase foreclosures at auction. Because he paid full price, he had to wait for the price to go up to make a profit. 
+#### 9) Look first for people who want to buy, then look for someone who wants to sell
+- Robert had a friend who was looking for land to buy - his friend had money, but not time, so Robert found a piece of property larger than what his friend wanted and tied it up with an option. He then sold his friend the piece that he wanted, and bought the land, keeping the remainder for himself for free. Moral of the story: buy the pie, cut it into pieces.
+- Most people only look for what they can afford, so they look too small and end paying more and getting less.
+#### 10) Think big
+- Retailers love giving volume dicounts. Gather together a group of people and increase your buying power.
+#### 11) Learn from history
+- Every successful person or company started somewhere different than their ultimate success.
+#### 12) Action always beats inaction
+
+### Final thoughts
+- The three incomes:
+    1. Ordinary earned
+    2. Portfolio
+    3. Passive
+- When "rich dad" said the wealthy have their moeny work for them, he was talking about Portfolio and Passive income.
+- The key to becoming rich is the ability to convert earned income into passive or portfolio income as quickly as possible.
+- Taxes are highest on earned income. The least taxed income is passive income.
