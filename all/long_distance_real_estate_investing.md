@@ -106,14 +106,14 @@ _"Landlords grow rich in their sleep without working, risking, or economizing"_ 
 
 ## Chapter 3: Rules and relationships
 _"If you don't have a competitive advantage, don't compete"_ - Jack Welch
-- Real estate investing is about funding deals, plain and simple.
+- Real estate investing is about finding deals, plain and simple.
 - You make your money when you buy.
 - The entire investing process should be viewed as trying to lose as little equity as possible.
 - The most efficient investors are those who have learned to:
     1. Find properties below market value.
     2. Prepare them to be rented or sold by adding the most value for the least money.
 - Your main goal should be to find value efficiently.
-- Paying full price in a great won't build wealth as fast as getting a great deal in a good area.
+- Paying full price in a great area won't build wealth as fast as getting a great deal in a good area.
 - Even if you know how to find great deals, it won't help if you don't know how to assemble a good team to help you.
 - Focus on your areas of strength and lean on experts in your areas of weakness.
 - You will want to quit if you make things too hard for yourself. Most people overestimate their willpower.
@@ -121,8 +121,8 @@ _"If you don't have a competitive advantage, don't compete"_ - Jack Welch
 ### Price-to-rent ratios
 _"Buy not on optimism but on arithmetic"_ - Warren Buffet
 - The buy-and-hold strategy requires a market where rents haven't been outpaced by home values. If they have, money can still be made by flipping houses.
-    - Buy-and-hold: The house will rent for more than the expenses associated with the property.
-    - Flipping: The house will sell for significantly more than the cost of purchase plus rehab.
+    - **Buy-and-hold**: The house will rent for more than the expenses associated with the property.
+    - **Flipping**: The house will sell for significantly more than the cost of purchase plus rehab.
 - Many successful investors have portfolios in the South or Midwest, where PTR ratios are historically strong.
 - Not many people have large portfolios in NY or CA because of the high prices
 
@@ -137,9 +137,9 @@ _"Buy not on optimism but on arithmetic"_ - Warren Buffet
     - **50% rule**: 50% of the rental income will go towards repairs and holding costs other than the mortgage. David considers this too general.
 
 ### Alternatives to buy-and-hold
-- Flipping: faster with more profit compared to the slower profit realization of buy-and-hold.
+- **Flipping**: faster with more profit compared to the slower profit realization of buy-and-hold.
     - Typically the main difference is in the types of materials used in the rehab (flipping usually involves more expensive, higher-quality materials)
-- Slow-flip: buy the house, live in it for a year or two (while rehabilitating, if necessary), and then sell it. There can be tax advantages to this approach.
+- **Slow-flip**: buy the house, live in it for a year or two (while rehabilitating, if necessary), and then sell it. There can be tax advantages to this approach.
 
 ### Vacation rentals
 - Potentially more income, but also potentially more work to rent and prepare, and more liability.
