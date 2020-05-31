@@ -3,7 +3,7 @@ David Greene
 ISBN 9780997584752  
 
 ## Chapter 1: Why Invest Out of State?
-- "Ninety percent of millionaires become so through real estate. More money has been made in real estate than in all industrial investments combined. The wise young man or wage earner of today invests his money in real estate." - Andrew Carnegie 
+_"Ninety percent of millionaires become so through real estate. More money has been made in real estate than in all industrial investments combined. The wise young man or wage earner of today invests his money in real estate."_ - Andrew Carnegie 
 - Andrew Carnegie was one of the first American rags-to-riches stories. He worked many different jobs and invested in many industries, making his ultimate fortune by selling Carnegie Steel Company for $480 million in 1901, making him one of the wealthiest people in the world at that time. He gave away tremendous amounts of money over the rest of his life. He was a dominate business person with an incredible amount of experience and knowledge. With all of his knowledge, he recommended people invest their money in real estate.
 - "In any profession, the longer you seek to understand the process, not the just the results, the better you will be at understanding the patterns that emerge."
 - We often expect ourselves to be perfect as soon as we start getting into real estate, but we should give ourselves enough time to develop or skills.
@@ -31,7 +31,7 @@ ISBN 9780997584752
 - Be an investor who diligently studies what to grow, where to grow it, and how to hire the field hands to do so.
 #### (end of The Crop Analogy)
 - When you you invest in real estate, you build wealth in your sleep, or while you're building other wealth, or working out at the gym. 
-- "Landlords grow rich in their sleep without working, risking, or economizing" - John Stuart Mill
+_"Landlords grow rich in their sleep without working, risking, or economizing"_ - John Stuart Mill
 
 ## Chapter 2: The Power of The Internet
 - The internet is a powerful tool for long-distance real estate investing.
@@ -104,3 +104,52 @@ ISBN 9780997584752
 ### The cloud
 - It's good.
 
+## Chapter 3: Rules and relationships
+_"If you don't have a competitive advantage, don't compete"_ - Jack Welch
+- Real estate investing is about funding deals, plain and simple.
+- You make your money when you buy.
+- The entire investing process should be viewed as trying to lose as little equity as possible.
+- The most efficient investors are those who have learned to:
+    1. Find properties below market value.
+    2. Prepare them to be rented or sold by adding the most value for the least money.
+- Your main goal should be to find value efficiently.
+- Paying full price in a great won't build wealth as fast as getting a great deal in a good area.
+- Even if you know how to find great deals, it won't help if you don't know how to assemble a good team to help you.
+- Focus on your areas of strength and lean on experts in your areas of weakness.
+- You will want to quit if you make things too hard for yourself. Most people overestimate their willpower.
+
+### Price-to-rent ratios
+_"Buy not on optimism but on arithmetic"_ - Warren Buffet
+- The buy-and-hold strategy requires a market where rents haven't been outpaced by home values. If they have, money can still be made by flipping houses.
+    - Buy-and-hold: The house will rent for more than the expenses associated with the property.
+    - Flipping: The house will sell for significantly more than the cost of purchase plus rehab.
+- Many successful investors have portfolios in the South or Midwest, where PTR ratios are historically strong.
+- Not many people have large portfolios in NY or CA because of the high prices
+
+### Determine an areas PTR ratio
+- Basically, subtract the costs from the recurring rental income. If you have money left over, you're making money. Otherwise, no.
+- Rules of thumb (quick, fast, and dirty calculations)
+    - When he sees a potential opportunity, David first runs the 1% calc to see if it meets his criteria for rentals. If not, he runs the 70% rule. If neither work, he passes.
+    - Teach your agent to run these numbers for you before bringing you a property to consider.
+    - **1% rule** (useful for rental investing): if a property can rent for 1% of its sale price each month, there is a good chance it will cash-flow well.
+    - **70% rule** (useful for flipping): multiply the after-repair value (ARV) by 70% and then subtract your expected rehab expenses to come up with a conservative purchasing offer that will likely cover holding costs, quiet costs, unexpected expenses, permits, missions, and taxes.
+    - **2% rule**: typically this metric means that the property is either a screaming deal, or that the neighborhood is a problem. Approach with extreme caution and only with the help of people with experience in this type of market.
+    - **50% rule**: 50% of the rental income will go towards repairs and holding costs other than the mortgage. David considers this too general.
+
+### Alternatives to buy-and-hold
+- Flipping: faster with more profit compared to the slower profit realization of buy-and-hold.
+    - Typically the main difference is in the types of materials used in the rehab (flipping usually involves more expensive, higher-quality materials)
+- Slow-flip: buy the house, live in it for a year or two (while rehabilitating, if necessary), and then sell it. There can be tax advantages to this approach.
+
+### Vacation rentals
+- Potentially more income, but also potentially more work to rent and prepare, and more liability.
+
+### How to leverage relationships
+- There can be huge advantages in having contacts in or intimate knowledge of an area.
+- Relationships drive success.
+- Being taught by someone is 100 times easier than learning on your own.
+- The most important person on your team is the one finding you deals.
+- As David has grown as an investor, he has stopped looking for deals and has started looking for people who have them.
+- When he started investing in Florida, David had a competitive advantage because he had a wholesaler who would bring him deals and a lender who would provider him with better financing than he could get anywhere else. Then he found the other missing pieces. He now believes this is the way to go - leverage relationships to build a foundation first. These relationships take time and effort and not all of them are home runs, but we all know somebody who knows somebody who knows somebody else who might be helpful for us in reaching our goals.
+
+_"The richest people in the world look for and build networks everyone else looks for work. Marinate on that for a minute"_ - Robert Kiyosaki
