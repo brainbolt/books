@@ -32,7 +32,7 @@ ISBN 9781612680194
     - Bonds
     - Income-generating Real Estate
     - Notes (IOU's)
-    - Intellectual Property that generates roylaties
+    - Intellectual Property that generates royalties
     - Anything else that has value, produces income, appreciates, and has a ready market
 7. Acquire assets that you love - if you aren't genuinely interested in something, don't invest in it
 8. Keep your day job, but build your assets while you work
@@ -61,10 +61,10 @@ ISBN 9781612680194
 2. Robert believes that many people miss out simply because they have debilitating self-doubt and are afraid of taking risks.
 3. Financial intelligence provides more options. Luck is created. 
 4. Hanging on to old ideas can be dangerous. Be nimble and ready to adapt to change.
-4. Large amounts of money can be turned into large amounts with smart, timely investments
-5. Markets go up and down, investements come and go. There are always opportunities to be discovered.
+4. Small amounts of money can be turned into large amounts with smart, timely investments
+5. Markets go up and down, investments come and go. There are always opportunities to be discovered.
 6. There are two kinds of investors - those who prefer "packaged" investments offered by others, and those who prefer to create their own, also known as professional investors. Being the latter requires three main skills:
-    1. Identifying oportunities that others have missed
+    1. Identifying opportunities that others have missed
     2. Raising money
     3. Surrounding yourself with smart people who can help you
 7. There is always risk - it's just a matter of learning to manage it rather than avoiding it
@@ -72,7 +72,7 @@ ISBN 9781612680194
 ## Chapter 6: Work to Learn, Don't Work for Money
 
 1. Many people are "one skill away from greatness" because too often they specialize in one thing and would greatly benefit from just one additional skill.
-2. Robert's rich dad encouraged Robert to learn a little about a lot of things because the more specialized you are, the more trapped and depenedent on that specialty you become.
+2. Robert's rich dad encouraged Robert to learn a little about a lot of things because the more specialized you are, the more trapped and dependent on that specialty you become.
 3. Seek jobs that will give you the skills that you need. Robert joined Xerox's sales program _because_ he was shy and wanted to learn to overcome his shyness and because Xerox's sales training program was one of the best in the world.
 4. Knowledge of business systems is very important. Many people make a better hamburger than McDonald's, but McDonald's is successful because they are excellent at business systems.
 5. The main skills needed for success are:
@@ -118,7 +118,7 @@ ISBN 9781612680194
 - Robert's rich dad insisted on paying himself first, even if he didn't have enough to cover his debts because he knew that it would motivate him to figure it out. If he had paid his debts first and nothing left with which to pay himself, he wouldn't have been as motivated.
 
 ### Overcoming Arrogance:
-- Everytime Robert's rich dad had been arrogant he had lost money because he thought that what he didn't know wasn't important.
+- Every time Robert's rich dad had been arrogant he had lost money because he thought that what he didn't know wasn't important.
 - Many people compensate for ignorance with arrogance.
 - Ignorance isn't bad if you respond to it by educating yourself.
 
@@ -136,7 +136,7 @@ ISBN 9781612680194
 
 #### 2) Make daily choices: the power of choice
 - You have the power to choose everyday to be rich or poor or middle class. Your spending habits reflect who you are. **The poor have poor spending habits.**
-- Most people choose to be not rich because they convince themselves that they don't care about money or that they will worruy about it later.
+- Most people choose to be not rich because they convince themselves that they don't care about money or that they will worry about it later.
 - Invest in education and learn ideas with which you disagree because it just gives you another perspective.
 - Take a long view of wealth that celebrates learning.
 - Invest in your mind before assets.
@@ -151,7 +151,7 @@ ISBN 9781612680194
 
 #### 4) Master a formula and the learn a new one: the power of learning quickly
 - Find a way to make money (take a class, read a book, etc.), put it into practice, and then learn new formulas.
-- Robert made millions using a formula he learned in a workshop called "How to Buy Real Esate Foreclosures", so he went in search of new formulas.
+- Robert made millions using a formula he learned in a workshop called "How to Buy Real Estate Foreclosures", so he went in search of new formulas.
 - It's not just about faster formulas, but it's about learning formulas faster. **Learn to learn quickly.**
 
 #### 5) Pay yourself first: the power of self discipline
@@ -171,7 +171,7 @@ ISBN 9781612680194
 #### 6) Pay your brokers well: the power of good advice
 - Quality professionals save you time and money and are well worth substantial pay.
 - If they are good, the information that they provide you with will only help you make more money.
-- Not all brokers are created equal. Find out hwo much property or investments they own.
+- Not all brokers are created equal. Find out who much property or investments they own.
 - Companies have a board of directors because they know the value of having input from smart people.
 
 #### 7) Be an Indian giver: the power of getting something for nothing
@@ -181,7 +181,7 @@ ISBN 9781612680194
 #### 8) Use assets to buy luxuries: the power of focus
 - Don't borrow money to pay for luxuries.
 
-#### 9) Choose heroesL the power of myth
+#### 9) Choose heroes: the power of myth
 - Following, imitating, and emulating those who we admire is a powerful form of learning.
 
 #### 10) Teach and you shall receive: the power of giving
@@ -200,25 +200,25 @@ ISBN 9781612680194
 #### 4) Take classes, read, and attend seminars
 - Roberts searches the internet for new and interesting classes, many of which are free or inexpensive.
 - The classes he has taken are why he is wealthy.
-#### 5) Make lots os offers
+#### 5) Make lots of offers
 - Make lots of offer when you are looking for real estate.
-- Ropbert often makes on offer of half of the asking price because he knows what it's like to try to sell something - a low offer is better than no offer because the seller can always counter.
+- Robert often makes on offer of half of the asking price because he knows what it's like to try to sell something - a low offer is better than no offer because the seller can always counter.
 - Robert sees buying and selling as a fun game, so he doesn't take it too seriously.
-- Always make offers with escape clauses. Robert likes to include a contingency which requirs approval from his business partner. His business partner is his cat.
+- Always make offers with escape clauses. Robert likes to include a contingency which requires approval from his business partner. His business partner is his cat.
 - Many people makes things too difficult and take things too seriously.
 #### 6) Jog, walk, or drive certain areas once a month for 10 minutes
 - Look for change in areas you are familiar with. 
 - Talk to postal carriers, moving companies, retailers (especially new ones), or other people working in the area who might have info about what is going on.
-#### 7) Shop for bargians in all markets
+#### 7) Shop for bargains in all markets
 - Many people buy commodities when they are on sale at the grocery store, but get scared when houses go on sale due to a declining market.
 - **Profits are made in the buying, not in the selling**
 #### 8) Look in the right places
-- Robert paid 50% of what his neighbor paid for a indentical condo because he knew how to purchase foreclosures at auction. Because he paid full price, he had to wait for the price to go up to make a profit. 
+- Robert paid 50% of what his neighbor paid for a identical condo because he knew how to purchase foreclosures at auction. Because he paid full price, he had to wait for the price to go up to make a profit. 
 #### 9) Look first for people who want to buy, then look for someone who wants to sell
 - Robert had a friend who was looking for land to buy - his friend had money, but not time, so Robert found a piece of property larger than what his friend wanted and tied it up with an option. He then sold his friend the piece that he wanted, and bought the land, keeping the remainder for himself for free. Moral of the story: buy the pie, cut it into pieces.
 - Most people only look for what they can afford, so they look too small and end paying more and getting less.
 #### 10) Think big
-- Retailers love giving volume dicounts. Gather together a group of people and increase your buying power.
+- Retailers love giving volume discounts. Gather together a group of people and increase your buying power.
 #### 11) Learn from history
 - Every successful person or company started somewhere different than their ultimate success.
 #### 12) Action always beats inaction
@@ -228,6 +228,23 @@ ISBN 9781612680194
     1. Ordinary earned
     2. Portfolio
     3. Passive
-- When "rich dad" said the wealthy have their moeny work for them, he was talking about Portfolio and Passive income.
+- When "rich dad" said the wealthy have their money work for them, he was talking about Portfolio and Passive income.
 - The key to becoming rich is the ability to convert earned income into passive or portfolio income as quickly as possible.
 - Taxes are highest on earned income. The least taxed income is passive income.
+
+# Summary
+## What is this book about?
+The premise of Rich Dad Poor Dad is that Robert (the author) grew up with two influential "dads" in his life who looked at money very differently. One was well educated, one was not. One was wealthy, and one struggled with finances all of his life. One promoted becoming a highly trained specialist, and the other knew a little about a lot. One who took chances with money and one who lived in fear about it. The hook is that Robert's wealthy dad was the uneducated generalist risk-taker, contrary to what conventional wisdom might suggest. In this book, Robert shares the lessons that his "Rich Dad" educated him with throughout his childhood.
+
+## The main ideas:
+1. The wealthy don't work for money, they make their money work for them.
+2. It's important to be financially literate, and most people aren't.
+3. Understand the difference between your business and your profession.
+4. Understand how taxes work and how to minimize your tax burden.
+5. Risk is something to be managed; luck is created.
+6. Greatness comes from a combination of skills, not just a specialization in one thing.
+7. There are five primary obstacles that prevent literate people from being successful.
+ 
+
+The core message is definitely about understanding the difference between assets and liabilities, as defined by the author. He defines them in simple terms: an asset is something that puts money in your pocket and a liability is something that takes money out of your pocket. He acknowledges that not all experts agree with his simple definitions, but that they are enough for assessing whether or not a purchase will make you more wealthy or less wealthy. As an example, Robert argues that in most cases, a home is a liability, even though most people consider it an asset. He points to the expenses of the mortgage, interest, taxes, and maintenance as evidence of its "liability-ness" - all of these expenses come out of your pocket every month. His classical counter example is that of a rental property where someone else is paying all of those expenses for you, and still potentially providing income on top of that.
+
