@@ -153,3 +153,43 @@ _"Buy not on optimism but on arithmetic"_ - Warren Buffet
 - When he started investing in Florida, David had a competitive advantage because he had a wholesaler who would bring him deals and a lender who would provider him with better financing than he could get anywhere else. Then he found the other missing pieces. He now believes this is the way to go - leverage relationships to build a foundation first. These relationships take time and effort and not all of them are home runs, but we all know somebody who knows somebody who knows somebody else who might be helpful for us in reaching our goals.
 
 _"The richest people in the world look for and build networks everyone else looks for work. Marinate on that for a minute"_ - Robert Kiyosaki
+
+## Chapter 4: The first members of your team
+_"Everyone enjoys the kind of work for which he is best suited"_ - Napoleon Hill
+- Leveraging the talents of skilled professionals is very important in this business, and one of your goals is to identify the right people and to help them succeed.
+- Automating by outsourcing frees up more of your time to do what really matters to you
+- Real estate investing is a business and needs to be run like one. Use trial and error, consistency, and wisdom to find the people who are really, really good at what they do so you can save time, money, and anxiety.
+### Key people to look for
+#### The deal finder
+- **The most important part of your business.**
+- Traditionally a real estate agent (REA), but sometimes wholesalers.
+- Good REA's are worth their weight in gold because they are surrounded by people who are likely to find the properties investors want and they are trained in finding properties and handling the transactions.
+- Use a REA over a wholesaler in the beginning, especially when buying out of state unless you are an experienced investor with a good accountant, good counsel, and a knack for paperwork.
+- The seller pays the agent, not the buyer. Even if you can theoretically get a better deal by not using an agent, this usually doesn't work out in practice because people willing to sell under market value are usually motivated by circumstances rather than purely by money - they are often trying to solve a problem.
+- The drawbacks of using an agent are small, and the benefits are large.
+
+#### High-producing agents
+- Online reviews can be a great way to find an agent.
+- While number of sales is not the most important factor, it can be a good indicator that the agent works well with others and that they are less likely to waste your time and are more likely to have additional resources you will need later.
+- <http://zillow.com/agent-finder> can be a great way to find high-producing agents.
+
+#### Agents with a team
+- Often run a team because they have had so much success that they needed help.
+- Can often cherry-pick the best/brightest agents to work for them.
+- They are often personally too busy to working with a needy investor, so they will usually refer you to their "buyer's agent" to be your point of contact. This person is very likely to be a good agent since they work for the high-producer and have access to the high-producer's resources.
+
+#### Ways to save time on your search
+- Use email to introduce yourself to REA's instead of trying to call all of them - you are more likely to get through to them and you can include more information that will help the agent know if they are a good fit for your needs.
+    - Things to include in an email introduction:
+        1. That you are an investor
+        2. What specifically you are looking for
+        3. How you intend to purchase (cash, loan, etc.)
+        4. How you heard about them
+        - Make it specific enough that they can see that you are serious and that your aren't going to waste their time.
+- Ask the right questions to find the right agent
+    - **Do they have experience working with investors?** This is not required, but it is very helpful.
+    - **Are they an investor themselves?** It is extremely helpful if the agent has been through the ups and downs of investing themselves.
+        - If so, ask them what kind of returns they are experiencing, how they found the properties, what kind of analysis they used, and what drew them to investing in the first place. If they seem to be nonchalant about it, this may indicate that they are not systematically planning for growing a portfolio. If they are specific and meticulous and moved quickly when the right deal was found, they may be much better suited to help you find what you are looking for.
+    - **What kind of support can they provide?** You want to know who your agent knows. Getting referrals is much more valuable than searching cold.
+    - **How do they plan to find your potential properties?** If they don't have a clear plan, you may be in trouble.
+    - Be sure to make it clear what kinds of properties you are wanting to see so you're not wasting your time looking through a bunch of results that will never work. The more specific, the better.
