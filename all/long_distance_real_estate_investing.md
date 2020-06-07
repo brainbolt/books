@@ -160,7 +160,7 @@ _"Everyone enjoys the kind of work for which he is best suited"_ - Napoleon Hill
 - Automating by outsourcing frees up more of your time to do what really matters to you
 - Real estate investing is a business and needs to be run like one. Use trial and error, consistency, and wisdom to find the people who are really, really good at what they do so you can save time, money, and anxiety.
 ### Key people to look for
-#### The deal finder
+### The deal finder
 - **The most important part of your business.**
 - Traditionally a real estate agent (REA), but sometimes wholesalers.
 - Good REA's are worth their weight in gold because they are surrounded by people who are likely to find the properties investors want and they are trained in finding properties and handling the transactions.
@@ -193,3 +193,96 @@ _"Everyone enjoys the kind of work for which he is best suited"_ - Napoleon Hill
     - **What kind of support can they provide?** You want to know who your agent knows. Getting referrals is much more valuable than searching cold.
     - **How do they plan to find your potential properties?** If they don't have a clear plan, you may be in trouble.
     - Be sure to make it clear what kinds of properties you are wanting to see so you're not wasting your time looking through a bunch of results that will never work. The more specific, the better.
+
+#### An agent and an investor - my advice to you
+
+_"The most important single, central fact about a free market is that no exchange takes place unless both parties benefit."_ - Milton Friedman
+
+- Make sure it is worth your agent's time to keep working for you. They are likely to take their deals elsewhere if you waste their time.
+- The people who most often "win" are the ones who are skilled in creating win-win scenarios that meet everyone's goals, not just their own.
+- It is always tempting to be selfish, but it is rarely fruitful to do so.
+- The most successful people in business have the most contacts for two reasons:
+    1. They are well liked and draw successful people to them.
+    2. They have been consistent with this for a long time.
+- Agent's time is often wasted by potential clients.
+- Those who do best in business are the ones who bring the most value to others.
+
+### The lender
+- A vital member of your team.
+- One of the first piece you will want to get in place - a good lender can be difficult to find. If you can't find the financing, there isn't much point in putting in the time to find anything else.
+- Lending is very standardized and it takes less time to determine if someone can help you, compared to an agent.
+
+#### Lending standards
+- There are a few universal standard metrics:
+    1. **DTI**: 
+        - Debt-to-income ratio: The amount you a obligated to spend each month to cover debts vs how much monthly income you have.
+        - Lower is better.
+        - Most banks prefer a DTI lower than 3-6%
+    2. **LTV**: 
+        - Loan-to-value. Used to determine the likelihood that the lender can recover their the amount loaned if you default.
+        - The lower the LTV, the safer the investment is for the bank.
+        - Calculated by comparing the amount of the loan to the value of the asset (the value often comes in the form of an appraisal)
+        - Low LTV is typically worse for the investor because it means that less cash is available on hand.
+        - When you put money down on a property, you are giving that money to the bank, you are giving that money to the seller so the bank doesn't have to.
+    3. **Credit scores**:
+        - Are important for determining your credit-worthiness, but usually aren't as important as most people think
+        - The median of the three scores is usually used.
+
+#### Loans for investors
+- Most banks sell the loans that they make or pack them together into mortgage-backed securities (MBSs).
+- FNMA (Fannie Mae) and FHLMC (Freddy Mac) are Government Sponsored Enterprises (GSEs) responsible for insuring loans and helping to repackage them as MBSs. They set lending standards for loans before they will insure them. 
+- Most banks will only offer loans that conform to Freddy and Fannie standards.
+- Terms becomes more strict once you have four loans. 
+- One you have 10 loans, you no longer qualify for Freddy/Fannie insured loans. It becomes much more difficult to find a loan once you have reached 10.
+- The limitation doesn't consider the size of the loans or your creditworthiness, it is just an arbitrary limit on the quantity. So if you have 10 loans for $50k each, its worse than having one loan for $500k.
+- "Portfolio lender" is a term sometimes used to describe a loan that a bank will keep on its own books. They become very important once you have 10 other loans. Once you have 10 loans, any additional cannot be sold as MBSs with the Fannie seal of approval, so your loan becomes less valuable to the bank.
+- Portfolio loans are commonly adjustable rate mortgages (ARMs) with starting rates about one point higher than Fannie/Freddy loans.
+- The bottom line is that once you have 10 loans, terms for additional loans are going to be worse, and it will take more work to find them.
+
+#### How to find a lender
+- There are other lending source besides just banks:
+    - **Mortgage brokers**: these loans often include extra costs to cover the broker's commission, which often results in paying higher rates or more points up front. They often aren't the best option, but they can be a great option if your need someone to go to work on your behalf.
+    - **Credit unions**: they are more likely to keep the loan on their own books. They are often very flexible because they are smaller, community oriented, and individually managed.
+
+#### How to reach out to lenders
+- Lenders usually want people applying for loans to fill out an applications. This is very time consuming when doing many of them.
+- Save your self time by emailing lenders a summary of the information you already know they will want as a way to get them to quickly evaluate you before asking you to fill out an application. Include:
+    - That you live out of state.
+    - Your middle credit score.
+    - DTI
+    - How much reserves you have to cover your properties.
+    - That you claim your income on your tax return.
+- When looking for loan 11 and up, most of the time you are going to be told no. This is great because it saves you from wasting any more of your or their time. Always follow up asking if they know who your should talk to.
+
+#### Alternative lending options
+- If you have special circumstances, you may be able to find solutions by looking for advertising in investing and real estate forums.
+
+#### The ease of electronic payments
+- They're great.
+
+#### Supercharging your equity growth
+- Make extra payments to minimize the amount of interest you pay over the life of the loan. 
+
+#### Electronic rent deposits
+- Use services like venmo and paypal to make and receive payments.
+
+#### Leveraging financing
+- Leveraging: borrowing money at a lower rate than you can make investing in another.
+- Real estate is one of the best ways to do this because they costs of loans are so low.
+- **Debt-to-income ratio**: 
+    - Make sure that for every expense you take on, you have much, much more extra income to make up for it. 
+    - Think of it like body fat percentage - you want to make sure that you always are burning more calories (income) than you are taking in (expenses).
+- **Portfolio LTV**:
+    - Closely watch the LTV of your entire portfolio.
+    - A 70% LTV is a good goal for your portfolio.
+
+#### Accurately reporting rental income
+- Three schools of thought:
+    1. Avoid paying taxes as much as possible (legally)
+    2. Run as profitably as possible, even if it means paying more taxes
+    3. Break the law
+- Out of options 1 and 2, the answers depends on where you are in your career and how badly you need the cash.
+    - If your primary goal is to live off of present cash flow, it makes sense to avoid showing profits and minimize your tax burden. Just keep in mind that scrimping on every penny by minimizing how profitable your business appears could hurt your ability to get future financing.
+    - If you are building your portfolio for future cash flow, then it is better to show your properties as more profitable. The future benefits of exponential growth will dwarf the benefits of cash in your pocket now.
+- If you are making good income aside from your rental portfolio, you should take every possible allowance to decrease your taxable income. Just keep in mind that if commercial standards are being used (as is sometimes the case with blanket mortgages and commercial properties), your personal income is unlikely to be considered.
+
