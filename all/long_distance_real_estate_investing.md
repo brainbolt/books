@@ -286,3 +286,86 @@ _"The most important single, central fact about a free market is that no exchang
     - If you are building your portfolio for future cash flow, then it is better to show your properties as more profitable. The future benefits of exponential growth will dwarf the benefits of cash in your pocket now.
 - If you are making good income aside from your rental portfolio, you should take every possible allowance to decrease your taxable income. Just keep in mind that if commercial standards are being used (as is sometimes the case with blanket mortgages and commercial properties), your personal income is unlikely to be considered.
 
+## Chapter 5: The rest of your team
+
+_"If I have seen further, it is by standing on the shoulders of gaints."_ - Isaac Newton
+
+- The property manager is the next crucial member of the team.
+- Property managers handle finding tenants, qualifying them, collecting rent, dealing with maintenance issues, etc.
+- Vacancy and maintenance are some of the biggest expenses in rental real estate, and having a good property manager can reduce both significantly.
+- Property management is not a luxury - it is crucial to running rental properties from out of state.
+- Property management is a difficult job.
+- An average fee of 7% is typical, and usually you can't take care of everything they do for that amount. They benefit greatly from the economy of scale that they get to realize.
+- Good ones are hard to find, so when you find a good one, hold on to them.
+
+### Finding referrals
+- Referrals to good managers are _very_ valuable.
+- Online resources like <http://biggerpockets.com> for communicating with other investors. The longer they have worked with them, the better.
+- Initially, they are almost always likely to be very responsive in order to win your business. The more business you bring them, the more likely you are to remain a priority, and the better pricing you are able to negotiate, so don't spread your business among too many competitors in one area.
+
+#### REAs
+- Can be an awesome resource for managers.
+
+#### Other investors
+- Online forums, REIA meetings
+- Investors love to talk about their business
+
+### What to ask before hiring a property manager
+- Their reputation is the most important factor.
+- Maintenance is the most crucial factor determining the profitability of rentals is maintenance.
+- The percentage fee charges by the manager is not the more important factor.
+- The basics:
+    - How much experience they have
+    - How many doors they manage
+    - What their strengths are
+    - What systems do they have in place to make things efficient
+- More specific questions:
+    - Monthly percentage off of rent
+    - Other fees to owners
+    - Inspection frequency
+    - How are maintenance/repair calls handled
+    - How are evictions handled
+    - Average turnaround for vacancies
+- An experienced manager should be able to handle these questions quickly and easily.
+- The best managers can handle most of these issues without taking too much of your time. The very best can do this in a cost-efficient and timely manner. The elite can this with minimal input from you.
+- Use example scenarios to find out how a potential manager will handle maintenance issues: If you ask them how they would handle a call from a tenant about hot water not working in the shower, you want to see some sort of initiative on their part to minimize your costs, so it would be great if they tried to walk the tenant through checking/relighting the pilot light. The next best answer would be to have a relatively inexpensive handy man check it out. If they instantly suggest calling a licensed professional, that may be a bad sign. 
+- Very inexpensive managers may be hurting for business or may be looking to make up their fees other ways. If they offer to do some services for free, they may not hold themselves accountable to them when the schedule gets tight.
+- They should have a clear, comprehensive marketing plan prepared.
+- Another thing to ask is what they think of properties in less than desirable areas. If you tell them that you are considering purchasing a property in a well-known "war zone", it is a very good sign if they decline to provide services, or even better, advise you not to buy there - this may show that you are willing to look out for your best interests.
+
+### How to negotiate better terms
+- Percentage of rent is usually a "vanity" number - look for the bigger picture and understand all the ways the manager will make money, and then try to trim the fat.
+- Ask yourself what you can do to help them - put yourself in their shoes and think about what you can offer.
+
+_"A barber lathers a man before he shaves him."_ - Dale Carnegie
+
+### Leveraging your property managers knowledge
+- Appeal to their pride by asking if you can have them "approve" properties you are considering. Having local input is very valuable, especially from someone knowledgable about the business.
+- They know a lot about what potential tenants are looking for in neighborhoods, house types and sizes, schools, etc, and they also know what to avoid.
+- Don't do this without property managers advising you on all things related to the market.
+
+_"Plans fail for lack of counsel, but with many advisers, they succeed."_ - Proverbs 15:22
+
+### The Contractor
+- Usually the last person to add to your team.
+- Can be very difficult to find, and other investors are likely to keep them to themselves.
+- Always get itemized bids, otherwise it is difficult to know what you are paying for.
+- You will probably go through several of them.
+- Less regulation and supervision means it is more difficult to hold them accountable.
+- There are lots of bad contractors.
+
+#### Where to find contractors
+- You need to rely on word of mouth, whether from online reviews, other investors, or trusted team members. 
+- Finding one through another investor is the best way, but it is difficult, and you may have to have something to offer them. Develop relationships.
+- Some are better suited for keeping costs low, and some are better suited for flips because they know the best materials and do beautiful work. Be sure to be clear about what you are looking for when asking for referrals.
+
+#### The bidding process
+- Your goal should be to find the person who impresses you the most, gives you the best prices, communicates the best, and shows you that they want to earn your business.
+- They communicate very differently depending on how badly they want the job.
+- They often are accustomed to working with very little input and may be annoyed if you try to do things different than "their" way.
+- They will either understand your concerns and will be willing to work with you or they will blow you off.
+- Ideas of fair prices, strictness of schedule, and what liberties they are allowed to take vary wildly between contractors.
+- Some treat what they tell you as something that they will stand behind and some believe it is more of a guideline.
+- During the bidding process you will learn some things, but you are unlikely to get the full picture of what kind of experience you are going to have.
+
+
