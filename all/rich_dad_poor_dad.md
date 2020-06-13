@@ -236,15 +236,142 @@ ISBN 9781612680194
 ## What is this book about?
 The premise of Rich Dad Poor Dad is that Robert (the author) grew up with two influential "dads" in his life who looked at money very differently. One was well educated, one was not. One was wealthy, and one struggled with finances all of his life. One promoted becoming a highly trained specialist, and the other knew a little about a lot. One who took chances with money and one who lived in fear about it. The hook is that Robert's wealthy dad was the uneducated generalist risk-taker, contrary to what conventional wisdom might suggest. In this book, Robert shares the lessons that his "Rich Dad" educated him with throughout his childhood.
 
-## The main ideas:
-1. The wealthy don't work for money, they make their money work for them.
-2. It's important to be financially literate, and most people aren't.
+## What are the main ideas?
+1. It's important to be financially literate, and most people aren't.
+2. The wealthy don't work for money, they make their money work for them.
 3. Understand the difference between your business and your profession.
 4. Understand how taxes work and how to minimize your tax burden.
 5. Risk is something to be managed; luck is created.
 6. Greatness comes from a combination of skills, not just a specialization in one thing.
 7. There are five primary obstacles that prevent literate people from being successful.
- 
+8. Your mentality and your relationship to your emotions have a huge influence on your life.
+
+### Mentality/emotions
+- "People shape their lives through their thoughts."
+- "There is a difference between being poor and being broke. Broke is temporary. Poor is eternal."
+- "I can't afford it" _vs_ "How can I afford it?"
+- "When it comes to money, play it safe, don't take risks." _vs_ "Learn to manage risk."
+- "The love of money is the root of all evil." _vs_ "The lack of money is the root of all evil."
+
+#### 1) Most people allow their emotions to control them without realizing it. 
+- "People's lives are forever controlled by two emotions: fear and greed."
+    - They trade their lives for security or desire
+        - fear of not having enough money, fear of not paying their bills, fear of being fired, etc.
+    - Learn to admit to yourself the truth of your emotions **and** to see and think clearly.
+    - If you can learn to be honest with your self about what you a feeling, you can use it to your advantage, or advantage minimize it's potential for harm.
+- "For most people, the reason they don't win financially is because the pain of losing money is far greater than the joy of being rich."
+- "The primary difference between a rich person and a poor person is how they manage fear."
+- "For winners, losing inspires them. For losers, losing defeats them."
+- "Failure inspires winners. Failure defeats losers."
+- Action always beats inaction
+- Luck is created.
+- "Often in the real world it's not the smart who get ahead, but the bold"
+
+#### 2) Life teaches by pushing people around.
+- Most people never learn
+    - They just let it happen or
+    - They get angry
+- If you can embrace the way life teaches you
+    - Can be successful _because_ of the lesson
+    - A lot of successful people look forward to learning more
+
+### Wealth-building concepts
+- Robert's definition of "wealth" is inspired by  R. Buckminster Fuller: "Wealth is a person's ability to survive so many days forward--or if I stopped working today, how long could I survive?"
+
+#### 1) Rule #1: You must know the difference between an asset and a liability, and buy assets
+- The wealthy don't work for money, they make their money work for them
+- "Assets put money in your pocket - liabilities take money out of your pocket"
+- "Rich people acquire assets. The poor and middle class acquire liabilities that they think are assets."
+
+- Assets fall into the following categories:
+    - Businesses that do not require your presence to operate
+    - Stocks
+    - Bonds
+    - Income-generating Real Estate
+    - Notes (IOU's)
+    - Intellectual Property that generates royalties
+    - Anything else that has value, produces income, appreciates, and has a ready market
+
+#### 2) Understand the difference between your business and your profession.
+- "If you work for money, you give power to your employer. If money works for you, you keep the power and control it."
+- "Job is an acronym for 'Just Over Broke.'"
+- "Financial struggle is often the result of people working all their lives for someone else."
+- "Get up, got to work, pay bills; get up, go to work, pay bills." - The Rat Race
+
+#### 3) Taxes
+- It's not how much you make but how much you keep.
+- Taxes are a huge burden especially for the middle class.
+- "My rich dad did not see Robin Hood as a hero. He called Robin Hood a crook."
+- "Average Americans today work four to five months for the government, just to cover their taxes."
+    - 32% of my paycheck is taken out before I get it.
+- Wealthy people own very little, but control a lot through corporate structuring.
+
+### Practical advice
+- There are five primary obstacles that prevent literate people from being successful.
+    1. Fear
+        - Everyone experiences it; embrace it.
+    2. Cynicism
+        - Many people allow their own doubts or the doubts of others to talk them out of acting
+        - Many people miss out simply because of self-doubt.
+        - Identify the cynicism as "noise". Make smart decisions and persist.
+    3. Laziness
+        - "Staying busy" is a common form of laziness
+        - Use desire (greed?) to motivate you
+            - "What's in it for me?"
+    4. Bad habits
+        - Put new habits in place (focus on what you want instead of what you don't want)
+    5. Arrogance
+        - Often used to compensate for ignorance (ignorance isn't bad)
+        - You can lose money if you convince yourself that what you don't know doesn't matter
+
+#### 1) Becoming rich is very simple: buy assets.
+- Acquire assets that you love - if you aren't genuinely interested in something, don't invest in it
+- "Start minding your own business. Keep your daytime job, but start buying real assets, not liabilities."
+- There are two kinds of investors - those who prefer "packaged" investments offered by others, and those who prefer to create their own, also known as professional investors. Being the latter requires three main skills:
+    1. Identifying opportunities that others have missed
+    2. Raising money
+    3. Surrounding yourself with smart people who can help you
+    - "The problem with 'secure' investments is that they are often sanitized, that is,  made so safe that the gains are less."
+- Purchase luxuries only with income generated from assets
+
+#### 2) Become financially literate
+- It's important to be financially literate, and most people aren't.
+- "A person can be highly educated, professionally successful, and financially illiterate."
+- Financial intelligence is made up of 4 things:
+    1. Accounting (financial literacy, or the ability to read numbers and evaluate a business' strengths and weaknesses)
+    2. Investing (making money from money)
+    3. Understanding markets (supply and demand, market conditions)
+    4. The Law (tax advantages and protections)
+- Those with legitimate assets should learn more about corporate structures as a way to take advantage of their potential benefits. He suggests Garret Sutton's books.
+
+#### 3) Learn business skills
+- "The single most powerful asset we all have is out mind. If it is trained well, it can create enormous wealth."
+- Greatness comes from a combination of skills, not just a specialization in one thing.
+- Learn a little about a lot of things because the more specialized you are, the more trapped and dependent on that specialty you become.
+- Many people are "one skill away from greatness" because too often they specialize in one thing and would greatly benefit from just one additional skill.
+- Seek jobs that will give you the skills that you need. Robert joined Xerox's sales program _because_ he was shy and wanted to learn to overcome his shyness and because Xerox's sales training program was one of the best in the world.
+- Knowledge of business systems is very important. Many people make a better hamburger than McDonald's, but McDonald's is successful because they are excellent at business systems.
+- The main skills needed for success are:
+    1. Cash flow management
+    2. Business systems management
+    3. Management of people
+    4. Sales/marketing
+    5. Communication (writing, speaking, and negotiating)
+- Sales and marketing are difficult for most people primarily due to fear of rejection.
+
+- Pay yourself first
+    - "If I pay myself first, I get financially stronger, mentally and physically."
+
+- The three incomes:
+    1. Ordinary earned
+    2. Portfolio
+    3. Passive
+- When "rich dad" said the wealthy have their money work for them, he was talking about Portfolio and Passive income.
+- The key to becoming rich is the ability to convert earned income into passive or portfolio income as quickly as possible.
+- Taxes are highest on earned income. The least taxed income is passive income.
+
+Chapter 8 and 9 have a lot of practical advice.
+
+- _The situation you fear most is the skill that you need to learn and conquer._
 
 The core message is definitely about understanding the difference between assets and liabilities, as defined by the author. He defines them in simple terms: an asset is something that puts money in your pocket and a liability is something that takes money out of your pocket. He acknowledges that not all experts agree with his simple definitions, but that they are enough for assessing whether or not a purchase will make you more wealthy or less wealthy. As an example, Robert argues that in most cases, a home is a liability, even though most people consider it an asset. He points to the expenses of the mortgage, interest, taxes, and maintenance as evidence of its "liability-ness" - all of these expenses come out of your pocket every month. His classical counter example is that of a rental property where someone else is paying all of those expenses for you, and still potentially providing income on top of that.
-
