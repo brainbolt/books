@@ -366,6 +366,42 @@ _"Plans fail for lack of counsel, but with many advisers, they succeed."_ - Prov
 - They will either understand your concerns and will be willing to work with you or they will blow you off.
 - Ideas of fair prices, strictness of schedule, and what liberties they are allowed to take vary wildly between contractors.
 - Some treat what they tell you as something that they will stand behind and some believe it is more of a guideline.
-- During the bidding process you will learn some things, but you are unlikely to get the full picture of what kind of experience you are going to have.
+- During the bidding process you will get some clues about what to expect from the contractor, but you are unlikely to get the full picture of what kind of experience you are going to have.
+- Keep an eye out for the ones offering input on ways to save you money and solve your problems. A contractor who sees a potential problem and reacts with several solution options is giving you a good sign.
+- If they are willing to tell you when they think you are making a mistake, that's also a very good sign. 
+- Communicate with them that you would love to hear their opinions and if they respond with a list of way to blow up the budget without good explanations for why, you probably want to say goodbye right away.
+- Make it clear in the initial conversations what level of communication you are expecting, how you expect to pay them, and what kind of proof of work you are expecting during the process (pictures, videos, etc). If they are resistant at this stage, part ways with them with spending any more time on them. Not every one will be willing to work this way.
+- If you have an active project, ask them to visit the property and produce a proposal for the work they think should be done. Asking them for their suggestions here can tell you a lot:
+    1. The suggestions they make should be inline with the goals you already explained to them if they are listening and are trying to help you.
+    2. If they identify things you haven't considered, you can learn from that.
+- After they complete their visit to the property, ask them to generate an itemized proposal so you can see exactly what you are paying for. 
+    - Many will refuse to do this. 
+    - They want to be as generic as possible. You want them to be as specific as possible. 
+    - If they won't do it, find out the reason. Sometimes they just don't have the time. If that's the case, ask them to provide a list of all the things they will do for the price they gave you. If they won't do that, it's a bad sign - they are either trying to hide something from you, or they don't know themselves, and neither are good. Even if they do amazing work and have a great record, they are not well-suited for working with investors.
+- The itemized list is crucial for comparing one contractor's pricing to another and for assembling the list of work to be completed. Pick all the work that you want done from the different items identified that you think are important and send the "final" list back to all the contractors who impressed you, asking them to fill in the gaps from their proposal.
+    - You can ask them to incluse materials or not. If you do, your life will be a bit easier, but you wont know if they are over-charging you. The author purchases the materials himself and has them delivered to the job site.
 
+#### Researching the contractors
 
+- After narrowing down the list, compare the quotes - throw any outliers out.
+- At this point, the remaining bids will likely be very close. Consider that some things may be more important than the small difference in price. Do some background work on the contractors left and find out who has the best reputation.
+- Wait until this stage of the process to investigate because it can be a very time-consuming process.
+- Use yelp, google their name, and ask them for references from former clients.
+    - If you hear a bad review from a referral, dig a little deeper - did the client have realistic expectations? Did they know what they were doing?
+    - Find out how many times the contractor had to go back to fix mistakes, how proactive they were in solving problems, how well they stuck t the schedule, etc. These conversations can be lengthy.
+
+#### Negotiating your bids
+- All that's left is choosing the one you're most comfortable with.
+- Don't negotiate the entire job - approach each line item individually.
+- Ask them where there is flexibility in their bids and try to find ways of doing it cheaper. If one contractor allots four hours for the same job that another allotted one, you might have something to work with.
+- When you have selected a contractor, the only remaining step is to work out the schedule.
+- Ask them to be very conservative and to allow for plenty of setbacks. Once you get a number, ask them if there is any reason why they shouldn't be able to complete the job in this time frame. Once they say no, add to the contract (the itemized proposal) that if the job is completed before the time-frame identified, you will include a small bonus (2%-5%). Also include that for every week that the job goes over, 5% will be withheld.
+    - Lots of contractors don't like this. This is exactly why they are given the opportunity to give a conservative estimate. It is important for them to understand that they are entering into a contract with you and that you expect them to uphold it, just as you will.
+    - If this is a problem for them, it could be a bad sign. Set the tone that you are a professional and that this will be a professional relationship based on professional standards.
+- Include your contractors in the materials selection process. They have lots of experience with this and may have a good understanding of whats popular and what works well.
+- A typical process might look like:
+    1. Get pictures of what you want the job to look like from google, pinterest, or from previous remodels.
+    2. Get the contractor to tell you where the best bet for finding the materials would be and how much they might cost.
+    3. Contact the locations suggested and get pricing for the materials. Negotiate.
+    4. Get a lead-time and place the order.
+    5. Arrange for all the materials to be delivered to the jobsite on the day that the contractor has arranged to begin. 
