@@ -405,3 +405,50 @@ _"Plans fail for lack of counsel, but with many advisers, they succeed."_ - Prov
     3. Contact the locations suggested and get pricing for the materials. Negotiate.
     4. Get a lead-time and place the order.
     5. Arrange for all the materials to be delivered to the jobsite on the day that the contractor has arranged to begin. 
+
+## Chapter 6: Understanding your market
+
+_"Successful investing professionals are disciplined and consistent, and they think a great deal about what they so and how they do it."_ - Benjamin Graham
+
+- Real estate investing requires oversight - in some markets prices go up and down, and in others, they stay stable. You'll want to understand your markets so you know when to buy, when to hold, and when to sell.
+- Each market is driven by some factor that make people want to live there - it could be the weather, the job market, the environment, etc. You'll want understand this so you can buy in areas with high demand.
+- For example, some areas of the country are driven by the energy sector, so when the energy sector is up, these markets will be influenced in that direction and vice versa.
+- Understand the "procuring cause" of every market you are involved in.
+
+### Tracking property values
+- You should track the value of your properties. The most accurate  way to do so is with a comparative market analysis (CMA) by a realtor.
+
+### What to do when prices are rising
+- When property values rise (and your equity increases), you should consider refinancing your loans in order to make the LTV more attractive to banks and to allow you to move some (or all) of your capital. 
+- Liquidate equity via refinancing and/or a Home Equity Line of Credit (HELOC).
+- Sometimes prices rise so much that it doesn't make sense to leave that money where it is, and you should consider selling.
+- Positioning yourself in markets before prices increase is one of the most effectives ways to increase your wealth via real estate, but you should avoid buying houses that don't cash flow based on speculation that the value will appreciate to make up for it.
+- Converting appreciated equity to cash flow takes less time than acquiring enough savings through cash flow to buy more property. In other words, appreciation is a faster way to build wealth than cash flow.
+- Learning how to anticipate changing market trends is a crucial part of successful investing. Learn how to identify properties that will both cash-flow from day one _and_ appreciate in value over time.
+
+### What to do when prices are dropping
+- When prices are dropping, you want to be in a position to buy more property - often this means liquidating.
+- You need to understand both _what_ the market is doing and _why_ it is doing it so you can take advantage of the changes before others do.
+- Property owners can still do well even in a bad economy as long as the expenses are covered by the tenants. One of the great things about real estate is that investors don't get hurt by falling prices until they sell. If a property cash flows, a drop in property value may not be a problem. But if you are in an area where people are leaving because the economy has turned, and they're not coming back, you may want to sell ASAP.
+- Decreasing prices should be exciting for investors because down markets are where the majority of investors build the majority of their wealth.
+
+### Investing in down markets, wherever they may be
+- When home prices are falling, opportunities to buy cash-flowing properties increase exponentially.
+- Investing out of state allows you to take advantage of rising prices and falling prices simultaneously.
+
+### Rental rates
+- The most accurate way to assess rental values is through a property manager.
+- It's important to understand _why_ rental prices are what they are what they are so you can keep your finger on the pulse of the market.
+
+### Anticipating rental rate increases 
+- one of your goals as a buy-and-hold investor is to locate areas where you believe demand is going to increase. Entire books have be written on the subject, but the best way is to lean on the experts in those areas: property managers, real estate agents, other investors, etc.
+
+### Following employment trends
+- Employment trends are important in helping you know how long you can expect rental rates to maintain and/or increase/decrease. People move to where they can find work and they pay for as much house as their job will afford them. Hot markets follow jobs, not the other way around.
+- Employments trends will also affect the demographic and financial status of your tenant.
+
+### Understanding your tenant pool
+- You want to give people what they want, so you need to understand what they want.
+
+_"Simply put, the job market is the number one factor that will influence both the rate you can charge for rent and value of the house. Home demand, including pricing and rent values is a produce of the job market and accompanying wages. Learn to understand it and follow it closely."
+
