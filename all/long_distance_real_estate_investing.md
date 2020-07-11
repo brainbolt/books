@@ -450,5 +450,56 @@ _"Successful investing professionals are disciplined and consistent, and they th
 ### Understanding your tenant pool
 - You want to give people what they want, so you need to understand what they want.
 
-_"Simply put, the job market is the number one factor that will influence both the rate you can charge for rent and value of the house. Home demand, including pricing and rent values is a produce of the job market and accompanying wages. Learn to understand it and follow it closely."
+_"Simply put, the job market is the number one factor that will influence both the rate you can charge for rent and value of the house. Home demand, including pricing and rent values is a produce of the job market and accompanying wages. Learn to understand it and follow it closely."_
 
+## Chapter 7: Working with the market
+
+_"Look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it"_ - Warren Buffett
+
+- We have no control over the market as investors, so all we can do it try to take advantage of the waves.
+
+### Creating an apples-to-apples comparison
+- When comparing opportunities, be sure to use the same evaluation process for both 
+- ROI is a valuable tool for evaluating the earning potential of a property, but it isn't the only thing to consider, especially once some equity has been developed.
+- Return on Equity (ROE) can help you determine if it is worthwhile to keep your equity where it is or if you should move it elsewhere.
+
+### Understanding Return on Equity (ROE)
+- ROE = (annual cash flow)/(equity value)
+- When your ROE is low, that means there is an opportunity the extract your equity and reinvest in additional properties, significantly improving your cash flow.
+- ROE isn't talked about much because, historically, people bought and sold in the same market, so there was typically very little opportunity to move money from one area with high prices to another area with prices rising
+
+### Timing the market
+- It's important to understand why a market is changing in order to know whether it has reach a peak or valley, or if it is still moving.
+- Some signs that prices are going to start falling:
+    - Increase in the number of days that houses are on the market
+    - Abnormal lending practices becoming more common
+    - Employers leaving an area
+    - Significant concessions offered to buyers
+
+### The "headache factor" and opportunity cost
+- Besides return on your money, it is also important to consider how much time you have to manage your business because sometimes properties that generate more income are also more difficult.
+- With buy-and-hold investing, you generally want your properties to take up as little of your time as possible.
+
+#### How to determine the headache factor of an area
+- Get good information from the right people by building relationships.
+
+### Improving your portfolio's performance
+- Be careful not to overlook the big picture solely for the opportunity to increasing your ROI by a few percentage points. Sometimes the sweet spot isn't the one that makes the most money, but the one at the right intersection between profitability and vacancy/appreciation potential/cultural factors/the effect on your portfolio
+
+### Timing your lease renewals correctly
+- Consider structuring your leases to expire in the early or mid-summer because this is when there is more demand. This creates some additional advantages:
+    1. Tenants are more likely to accept a raise in rent if there is less time to find a new place before the end of summer.
+    2. If a tenant decides to leave, the house will be vacant during the busiest selling months.
+    3. Rent prices are typically increasing leading into summer, so a yearlong lease will be more advantageous when prices are high
+- Avoid allowing properties to become vacant during December or January when no one is looking for a house to buy.
+
+### Cash for keys
+- In spite of your efforts to prevent it, there will come a time when you need a tenant to vacate before the end of their lease. If they don't want to leave, your best bet may be to offer them cash to break the lease.
+
+### Accept some headaches
+
+_"You don't have to see the top of the staircase to take the first step."_ - Martin Luther King Jr.
+
+- Sometimes properties that require more work are the only ones we can afford or can get financing for. Sometimes it just takes more work when you're getting started.
+- Learning to manage tenants and properties in the worst situations can make you an expert if you can survive it.
+- If you find yourself in a tough market, your goal should be to build equity and exit as soon as possible.
