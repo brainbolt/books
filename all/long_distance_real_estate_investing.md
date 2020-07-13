@@ -503,3 +503,8 @@ _"You don't have to see the top of the staircase to take the first step."_ - Mar
 - Sometimes properties that require more work are the only ones we can afford or can get financing for. Sometimes it just takes more work when you're getting started.
 - Learning to manage tenants and properties in the worst situations can make you an expert if you can survive it.
 - If you find yourself in a tough market, your goal should be to build equity and exit as soon as possible.
+- Some areas are simply better suited for real estate investing due to more favorable laws for landlords.
+
+### The 1031 Like-kind exchange
+- The IRS allows for capital gains on the sale of a property to be deferred if a like property is purchased with the proceeds from the sale.
+- There are lots of rules, so be sure to consult a CPA, but in general, there is a time-limit on identifying properties, and a time-limit on closing.
