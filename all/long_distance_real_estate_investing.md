@@ -508,3 +508,49 @@ _"You don't have to see the top of the staircase to take the first step."_ - Mar
 ### The 1031 Like-kind exchange
 - The IRS allows for capital gains on the sale of a property to be deferred if a like property is purchased with the proceeds from the sale.
 - There are lots of rules, so be sure to consult a CPA, but in general, there is a time-limit on identifying properties, and a time-limit on closing.
+
+## Chapter 8: Managing out-of-state properties
+
+_"Teamwork is thew ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results._ - Andrew Carnegie
+
+- Buying a turnkey, ready to market property is something that is often more easy to stomach for people when considering investing out of state, but doing so potentially leaves a lot of equity on the table.
+- If you want to learn how to add built-in equity to your properties, you need to learn how to get good at rehabilitating out-of-state properties.
+- Learning to manage out-of-state rehabs can seem intimidating at first, but as with everything, it gets easier the more you do it. The last time you did it was the hardest it will ever be.
+
+### Give your contractor incentive and maximize your results
+- Creating the contract from the itemized bid could be as simple as adding the payment and timing terms and asking the contractor to sign (consult with your attorney).
+
+#### Ensuring your projects finish on time
+- When things go wrong with a rehab, it's usually one of two ways:
+    1. The project runs over budget
+    2. The project runs over time
+- Negative reinforcement is shown to be a more powerful influencer than positive reinforcement
+    - Being able to step off of hot cement onto cool grass after completing a task is an example of negative reinforcement
+    - Being given an ice cream cone after completing a task is an example of positive reinforcement
+- The best approach when working with contractors is to combine the two:
+    - Include in the contract a bonus for completing work ahead of schedule
+    - Include a penalty for completing work late.
+
+### Create accountability through advertising
+- Once a contract has been reached, inform your contractor that you are a professional investor and that high-quality, detailed photographs will be taken of the project once completed and will be shared on social media, and that the contractor's name will be given to anyone who asks who did the work. Share all of this with a pleasant demeanor as a way to motivate them to do their best work. You want them to know that the quality of their work will have an impact on their business, good or bad. Make sure they know they are going to get free advertising one way or another. They might as well make it good.
+
+### Paying for materials yourself
+- When first establishing a new relationship with a contractor, you should buy the materials yourself, just to eliminate any possibility of number-fudging.
+- You will learn a lot in the process if you are more hands-on during this phase.
+- No one will be motivated to find the best prices for your project than you.
+- This will take more of your time, but keep in mind that efficiency goes up with experience.
+
+### Using your contractors' house accounts to save you money
+- Some contractors may allow you to use their discount account when ordering materials
+
+### How to manage paying your contractors
+- Contractors are motivated primarily by money
+- Don't pay them all up front because you lose power once they have been fully paid.
+- Pay them in phases (two weeks at a time works well)
+- Make sure that you don't pay them everything before the job is completed, otherwise you'll lose leverage.
+- After establishing relationships with a contractor, you may be able to pay them everything up front and still trust that the work will be done properly and on time.
+
+### The partnership mentality
+- It is important that the members of your team are viewed as partners, not employees.
+- When working with a contractor for the first time, you may be able to get your real estate agent or property manager to verify the work for you.
+- Ask property managers what you can do to help their business.
