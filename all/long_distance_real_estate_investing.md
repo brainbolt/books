@@ -673,3 +673,41 @@ _"Never hire someone who know less than you do about what he's hired to do"_ - M
 - **BRRRR**: Buy, rehab, rent, refinance, repeat
 - Refinancing after upgrading and appraisal can allow you to pull out more money in the process. (cash out refinance?)
 
+## Chapter 10: Maximize ROI
+
+_"Never invest in a business your can't understand"_ - Warren Buffet
+
+### Big lots equal big opportunity
+- In terms of creative construction endeavors, two things that create opportunities are:
+    1. Raised foundations
+    2. Big backyards
+
+#### Additional detached units
+- New structures can significantly increase value
+
+#### Walls
+- Knocking down or putting up walls can add value
+    - To create a more modern feel in an older house
+    - To connect a master bedroom to a large hallway closet
+
+### Buying bad houses in nice areas
+- Location is often the most important criteria for a buyer
+- If you can rehab well, this may be a god option
+
+### Increase success with bad houses
+- There are three factors that typically lead to the opportunity to purchase at a deal:
+    1. Market distress: too much supply
+    2. Property distress
+    3. Owner distress: financial, emotional, or mental struggles that motivate the owner to sell.
+- Categories 2 and 3 are the most common when targeting bad houses
+
+#### Areas with a lack of inventory that buyers want
+- Can be a great way to target areas likely to appreciate, the houses are likely to be outdated.
+- If you can purchase an undesirable property in an area with high demand and convert it to a desirable property - good.
+
+#### "Over-upgrading"
+- Don't upgrade your property so that it is nicer than the surrounding homes.
+- It is easier to make this mistake when investing out of state
+- Look at comparable properties selling in the area to avoid this pitfall.
+
+
