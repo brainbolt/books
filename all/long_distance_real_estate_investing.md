@@ -710,4 +710,47 @@ _"Never invest in a business your can't understand"_ - Warren Buffet
 - It is easier to make this mistake when investing out of state
 - Look at comparable properties selling in the area to avoid this pitfall.
 
+## Chapter 11: Tricks to find more deals out of state
 
+_"If history was all that is needed to play the game of money, the richest people would be the librarians"_ - Warren Buffett
+
+### Real Estate Owned (REO)
+- Owned by the bank and has had a title transferred back to the bank as a result of a foreclosure.
+- It's best to use a real estate agent for these purchases because of the complicated process
+- Consider the following:
+    1. Government/tradesmen liens
+    2. Roof age/condition
+    3. The presence of/damage from wood destroying organisms (WDO)
+    4. Number of offers made
+    5. Will an inspection period be available upon accepted offer
+
+#### Homepath.com
+- Fannie Mae's marketplace for foreclosure inventory
+
+### Short sales
+- An owner selling a property for less than what is owed on the mortgage.
+- Almost always more difficult than a traditional sale
+- Takes much longer to get an offer approved, but this can work in the investor's favor: Before the offer is accepted, it can be retracted at any time (if the value of the property goes down, for example, during the _very_ long [months? A year?] offer approval process).
+
+### Notice of default (NOD)
+- Public record of a bank notifying the owner that they are delinquent on their loan.
+- Usually there is not enough time left to go through a typically sale cycle by the time this has happened.
+- Owners are motivated to sell, and may see an offer as a solution to their problems, if handled tactfully.
+
+### Half-finished homes
+- Not a technical term - just an unfinished rehab.
+- Can be a great opportunity because many people are not able to provide the cash required to make the purchase (these do not qualify for conventional financing) and much of the work has already been done.
+- It is easier to tell what needs to be done if the projects have already started.
+- Be sure to get a thorough inspection so you know what you are getting into.
+- This may be a way to get into investing if you can find people to partner with.
+
+### Leveraging the listing agent
+- You can work directly with the listing agent instead of using a buyers agent.
+- You can sometimes get a better deal.
+- Usually best suited for people with a lot of experience.
+- Illegal in some states.
+- Takes the potential for conflict between buyers agent and sellers agent out of the equation
+- Potentially more attractive to the sellers agent when looking for deals since the commission will not be split.
+
+### Paying your real estate agents a bonus
+- Offering an additional bonus can motivate your agent to get help from those who would otherwise be considered competition (other agents in his office)
