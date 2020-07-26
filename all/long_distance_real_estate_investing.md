@@ -554,3 +554,122 @@ _"Teamwork is thew ability to work together toward a common vision. The ability 
 - It is important that the members of your team are viewed as partners, not employees.
 - When working with a contractor for the first time, you may be able to get your real estate agent or property manager to verify the work for you.
 - Ask property managers what you can do to help their business.
+
+
+## Chapter 9: Finding Materials
+
+_"If you think good design is expensive, you should look at the cost of bad design."_ - Ralf Speth
+
+- Sure to use materials that fit the aesthetic of the audience you are targeting. You wouldn't want to try to sell a rustic design that would work well in Wyoming to someone in San Francisco. Understand what is appealing to your market.
+
+### R&D (Rip off and duplicate)
+- Model the success of others to reduce stress, minimize mistakes and save time.
+- Learn form the strengths of others.
+
+### Finding design inspiration
+- Lots of good-looking designs to imitate can be found on sites like Pinterest, Houzz, and Tumbler.
+- Ask for the opinions of others:
+    - Social media 
+        - Ask your facebook/twitter followers for their opinions on your design ideas.
+        - Present multiple ideas and take a survey on which one people like most.
+        - Post your original "before" walk-through video and ask for "blank canvas" ideas.
+    - Email
+        - This can be more personal and direct than a generic post and can be useful if you want to make sure a particular person chimes in.
+        - Options:
+            - Write a mass email and bcc everyone.
+            - Send everyone a personal message (most likely to get responses)
+            - Spam people with a service like MailChimp.
+        - Using MailChimp:
+            - You may be able to reproduce the feeling of a personal email while still targeting a larger group of people (more efficient)
+            - You can control to time of day the email is delivered/received, which can be very useful.
+    - Topical Blog
+        - People who follow a blog about real estate are much more likely to be engaged in real estate topics than your average facebook friend or twitter follower.
+    - BiggerPockets
+        - Its amazing, blah, blah, blah... oh, and it just happens to be the publisher of this book.
+
+
+### Getting Samples from your Contractor
+_"Never hire someone who know less than you do about what he's hired to do"_ - Malcolm Forbes
+
+- You're likely to get the best materials ideas from the person who uses them for a living - your contractor
+    - They likely take photos of all of their projects.
+    - They are a person, and are likely to have opinions about what looks good.
+    - They secretly fantasize about doing what you are doing (flips/rehabs).
+    - They know what is popular at the stores.
+    - They work with homeowners who know what they like.
+    - In general, they are exposed to more ideas than you because this is their life.
+
+### When the design idea is formed
+- It's time to find the materials at the best prices. Get in touch with the various retailers that your contractor may suggest and ask what they have that fits what you're looking for.
+- Send the rep the photos and ask them to suggest things that match the style. If they don't have anything, ask them to suggest someone who might.
+- It never hurts to ask for a reduction in price.
+
+### Determining the value of upgrades
+- There are a couple schools of thought on the subject that are usually based on the type of tenant people have had, and how many vindictive-tenant experiences people have gone through.
+
+#### It's not just about the look - it's about the value
+- Your goal is to spend as little money as possible to add as much value as possible.
+- **The ability to to buy an under-performing asset and make it a performing asset while simultaneously adding value through increased equity is what separates real investors from those who just bought well. This is how the wealthy grow their wealth.**
+- If you do too little and don't put our property in a position to compete, we'll suffer. Conversely, if you overdo it, you'll suffer diminishing returns which will impact your bottom line.
+- Sometimes the budget we arrive at for a rehab is arbitrary. The truth is that true value comes from getting great deals that add value to your property regardless of what they cost. Sometimes a more expensive (and more attractive) material can justify increased rents and may make you stand out among the competition.
+- Look for the _best_ option, not just the one that fits in the budget.
+
+#### Where is your money going?
+- There are two categories of upgrades:
+    1. Those needed to make the house liveable
+    2. Those that are nice, but not necessary
+- Upgrading items in group two is usually not a good idea because investing in group one items is much more likely to generate a good return.
+- Don't make the mistake of replacing items that are in fine working order - it rarely makes sense.
+- The primary goal is to put money towards items that are going to add value to the house.
+
+#### Is the juice worth the squeeze?
+- If you hit budget and end up with something unattractive or with something that doesn't compete, you've failed.
+
+### How to "Hack" your contractor
+- Contractors have strengths and weaknesses - play to their strength. If they have an awesome tile guy, consider asking them to quote tiling the flooring or countertops
+
+### The upgrade hack
+- If you are already doing something significant like replacing countertops, sometimes spending a little more can give you a big boost in quality. Spending a few hundred dollars to get granite instead of tile may provide a big boosts.
+- Keep an eye out for the following way to make your project look much better:
+    - **Paint**: it hides a multitude of sins. Two-tone paint can really improve the look of a property without much extra cost.
+    - **Flooring**: Using very high-quality products when you have small spaces can have a big impact since flooring is priced by the square foot and the difference for a small space will be very little.
+        - This works well in bathrooms.
+    - **Showers**: Since the areas are small, tile can be a very good option. Rainfall shower heads are also inexpensive and make a big impact.
+    - **Cabinets**: The most crucial part of any rehab.
+        - Refacing is often better when buying and holding. Painting and replacing fixtures can be a good option.
+        - Doors can be replaced without replacing the rest of the cabinet.
+    - **Countertops**: Usually the first thing people notice.
+        - If you are already replacing, upgrading to granite may not be that much more expensive. The trick is to find someone who can install skillfully and inexpensively.
+    - **Adding extra bedrooms**: This can add tremendous value because of the way that property values are determined in the US.
+
+### Four simple factors to determine value
+1. Location
+2. Square footage
+3. Number of bedrooms
+4. Is it upgraded?
+
+- We can change everything except `#1`.
+- Adding a bedroom puts the property in a whole new listing class (what was a moderately-priced 3-bedroom becomes an inexpensive 4-bedroom)
+- First ensure that the area supports increasing the value by adding rooms (not all areas have significant differences in values based on the number of rooms)
+- The sweet spot is usually converting 2 -> 3 or 3 -> 4
+- Start with a rough estimate from your contractor, and don't pursue it any further if this number doesn't make sense.
+- The property must support adding a room. Look for:
+    - Large storage areas
+    - A den
+    - Bonus room with no door
+    - Unfinished attic
+    - 3rd garage space
+    - Etc.
+
+#### Exterior room additions
+1. Can increase square footage
+2. You can cure whatever problem is preventing the property from reaching its full potential.
+
+- It can also be beneficial to add a second bathroom to a house with only one.
+- Some houses are easier than others
+    - Concrete slabs make running electrical and plumbing more difficult
+
+### Finance hacking
+- **BRRRR**: Buy, rehab, rent, refinance, repeat
+- Refinancing after upgrading and appraisal can allow you to pull out more money in the process. (cash out refinance?)
+
