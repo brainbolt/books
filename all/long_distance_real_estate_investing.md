@@ -754,3 +754,14 @@ _"If history was all that is needed to play the game of money, the richest peopl
 
 ### Paying your real estate agents a bonus
 - Offering an additional bonus can motivate your agent to get help from those who would otherwise be considered competition (other agents in his office)
+
+## Chapter 12: The long-distance investor
+
+_"Fears are educated into us and can, if we wish, be educated out."_ - Karl Augustus Menninger
+
+- The process is mostly the same whether investing locally or remotely.
+- Your beliefs and feelings about it have a huge influence on your abilities.
+- Forces your process to be on acquisition and team building.
+- Fish where the fish are biting.
+
+_"I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful."_ - Warren Buffett
