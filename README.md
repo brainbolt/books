@@ -1,2 +1,3 @@
 - [all/rich_dad_poor_dad.md](all/rich_dad_poor_dad.md)
 - [all/long_distance_real_estate_investing.md](all/long_distance_real_estate_investing.md)
+- [all/nonviolent_communication_training_session_audiobook.md](all/nonviolent_communication_training_session_audiobook.md)
